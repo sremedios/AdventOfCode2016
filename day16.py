@@ -1,5 +1,5 @@
 puzzleInput = '00101000101111010'
-diskSize = 272
+diskSize = 35651584 # change to 272 for part 1 
 
 resultData = puzzleInput
 
