@@ -1,4 +1,4 @@
-with open("day1_input.txt") as f:
+with open("day01_input.txt") as f:
     directions = f.read().split(", ")
 
 path = {'N':0,'E':0,'S':0,'W':0}
